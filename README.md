@@ -31,7 +31,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 |  Team Member  | Pedro Martins|         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-sales-9b24a0302/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Samuelcruzfelixsales/Samuelcruzfelixsales.git)        ||
 
 
-
+(https://![TIME](https://github.com/user-attachments/assets/52fb424e-7e0e-4984-a25b-92f80a1bae9c)
+.com/logo.png)
 # Objetivo do Projeto
 
 Inserir bicicletas e patinetes, placas solares e lixos orgânicos e recicláveis nos locais em que a EMTU atua. 
