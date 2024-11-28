@@ -29,41 +29,38 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 |  Team Member  | Pedro Martins|         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-sales-9b24a0302/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Samuelcruzfelixsales/Samuelcruzfelixsales.git)        ||
 
 
-(https://![TIME](https://github.com/user-attachments/assets/52fb424e-7e0e-4984-a25b-92f80a1bae9c)
-.com/logo.png)
+![TIME](https://github.com/user-attachments/assets/52fb424e-7e0e-4984-a25b-92f80a1bae9c)
+
 # Objetivo do Projeto
 
-Inserir bicicletas e patinetes, placas solares e lixos orgânicos e recicláveis nos locais em que a EMTU atua. 
+Inserir o micromodal de bicicletas compartilhadas na rota do ônibus 5117.
+Inserir ônibus elétrico movido a energia solar.
 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
 * Whatsapp
 * ChatGPT
+* Google
   
  ### Tecnologias da Informação
  
 * Jira Sofwtare
 * Github
-* Slack 
+* Google Maps
 * Pacote Office
 
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off |  | concluído| [Ver Relatório](https://1drv.ms/w/s!AjYy1U2jXbGFi05x1rc4a5Gsz1GR?e=rieBHy) | 
-|01 | | concluído| [Ver Relatório](https://1drv.ms/w/s!AjYy1U2jXbGFi05x1rc4a5Gsz1GR?e=rieBHy) | 
+|Kick Off |  |         | [Ver Relatório](https://1drv.ms/w/s!AjYy1U2jXbGFi05x1rc4a5Gsz1GR?e=rieBHy) | 
+|01 | |        | [Ver Relatório](https://1drv.ms/w/s!AjYy1U2jXbGFi05x1rc4a5Gsz1GR?e=rieBHy) | 
 |02| | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03|  | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |04| |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções||a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui↓)]
-(https://github.com/users/JoseAugusto003/projects/2/views/1)
 
 # Requisitos
 
@@ -71,7 +68,10 @@ Requisitos funcionais
 - Conteúdo da apresentação   
 - Relatório
 - Backlog do produto
-- Estruturação do Github e Jira Software 
+- Estruturação do Github e Jira Software
+- Desenvolver a idéia da inserção das bicicletas compartilhadas.
+- Desenvolver a idéia da inserção do ônibus elétrico movido a energia solar.
+  
 
 
   
@@ -84,12 +84,13 @@ Requisitos não funcionais
   
 <div align="center">
 
-## Sprint 1. Concepção dos objetivos e estruturação das  plataformas 
-- [] Backlog do produto;
-- [] Estruturar o Github com link disponibilizado;
-- [] Estruturar o Jira Software;
-- [] Atribuição das atividades para a Sprint 2;
-- [] Fazer um brainstorm;
+## Sprint 1. Concepção dos objetivos
+
+-  Fazer um brainstorm;
+-  Dividir o grupo em três para realizar os três tópicos:
+  1 Alteração da matriz energética
+  2 Redução de veículos particulares e expansão de frota
+  3
 
 ## Sprint 2. Realizar uma pesquisa sobre os Segmentos de paineis energia solar para movimentação do ônibus. Estudar sobre implantação de bicicletas e patinetes compartilhados.
 
