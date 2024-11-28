@@ -1,9 +1,10 @@
-# ECOPONTO
+# BIOPONTO
+SUSTENTABILIDADE AMBIENTAL 
 
 # Aprendizado por Projeto Integrado (API)
 
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados para a EMTU.
 
 # Índice
 
@@ -12,7 +13,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
 * [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+ 
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
@@ -31,23 +32,26 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 |  Team Member  | Pedro Martins|         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-sales-9b24a0302/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Samuelcruzfelixsales/Samuelcruzfelixsales.git)        ||
 
 
-(https://![TIME](https://github.com/user-attachments/assets/52fb424e-7e0e-4984-a25b-92f80a1bae9c)
-.com/logo.png)
+![TIME](https://github.com/user-attachments/assets/52fb424e-7e0e-4984-a25b-92f80a1bae9c)
+
 # Objetivo do Projeto
 
-Inserir bicicletas e patinetes, placas solares e lixos orgânicos e recicláveis nos locais em que a EMTU atua. 
+Inserir o micromodal de bicicletas compartilhadas na rota 5117.
+Inserir  ônibus elétricos.
 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
 * Whatsapp
 * ChatGPT
+* Google maps
+  
+  
   
  ### Tecnologias da Informação
  
 * Jira Sofwtare
 * Github
-* Slack 
 * Pacote Office
 
 # Sprints
@@ -61,11 +65,6 @@ Sprint | Previsão | Status| Histórico|
 |04| |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções||a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui↓)]
-(https://github.com/users/JoseAugusto003/projects/2/views/1)
 
 # Requisitos
 
@@ -73,7 +72,8 @@ Requisitos funcionais
 - Conteúdo da apresentação   
 - Relatório
 - Backlog do produto
-- Estruturação do Github e Jira Software 
+- Estruturação do Github e Jira Software
+- Entrega da ideia da bicicleta compartilhada e o ônibus elétrico.
 
 
   
@@ -86,26 +86,40 @@ Requisitos não funcionais
   
 <div align="center">
 
-## Sprint 1. Concepção dos objetivos e estruturação das  plataformas 
-- [] Backlog do produto;
-- [] Estruturar o Github com link disponibilizado;
-- [] Estruturar o Jira Software;
-- [] Atribuição das atividades para a Sprint 2;
-- [] Fazer um brainstorm;
+## Sprint 1. Concepção dos objetivos
+- Realizar  brainstorm
+- Separar o grupo em 3 partes, cada um responsável por um tópico.
 
-## Sprint 2. Realizar uma pesquisa sobre os Segmentos de paineis energia solar para movimentação do ônibus. Estudar sobre implantação de bicicletas e patinetes compartilhados.
+- Apresentação das idéias para a EMTU.
+- Atribuição das atividades para a Sprint 2;
+  
+
+## Sprint 2. Realizar uma pesquisa sobre os Segmentos de paineis energia solar para movimentação do ônibus. Estudar sobre implantação de bicicletas compartilhadas.
+Invés de 3  tópicos, fazer em 2 tópicos:
+
+1-Redução de veículos particulares e expansão de frota;
+
+2- Alteração da matriz energética. 
+
+Definição das idéias para cada tópico:
+Bicicletas compartilhadas; 
+
+Ônibus elétrico movido a energia solar.
+
+Preparação e apresentação das idéias para EMTU.
 
 
+## Sprint 3.  Trazer os dados de o porquê de ser benéfico essas implantações.
+Realizar alterações de acordo com o feedback do segundo Sprint.
 
-## Sprint 3.  Trazer os dados de o porque de ser benéfico essas implantações
+Finalização do Github.
+
 
 
       
 ## Sprint 4. 
 
-
-# Funcionalidades e registros (vídeos e apresentações) das sprints
-Em desenvolvimento 
+Correção de possíveis erros para a Feira de soluções.
 
 
 # Competências desenvolvidas
