@@ -89,10 +89,14 @@ Requisitos não funcionais
 -  Fazer um brainstorm;
 -  Dividir o grupo em três para realizar os três tópicos:
   1 Alteração da matriz energética
+   
   2 Redução de veículos particulares e expansão de frota
-  3
+  
+  3 Inclusão de veículos sustentáveis 
 
-## Sprint 2. Realizar uma pesquisa sobre os Segmentos de paineis energia solar para movimentação do ônibus. Estudar sobre implantação de bicicletas e patinetes compartilhados.
+  Apresentação das idéias iniciais para EMTU.
+
+## Sprint 2. Realizar uma pesquisa sobre os Segmentos de paineis de energia solar para movimentação do ônibus. Estudar sobre implantação de bicicletas compartilhadas.
 
 
 
