@@ -91,17 +91,17 @@ Requisitos não funcionais
 - [] Estruturar o Github com link disponibilizado;
 - [] Estruturar o Jira Software;
 - [] Atribuição das atividades para a Sprint 2;
+- [] Fazer um brainstorm;
+
+## Sprint 2. Realizar uma pesquisa sobre os Segmentos de paineis energia solar para movimentação do ônibus. Estudar sobre implantação de bicicletas e patinetes compartilhados.
 
 
-## Sprint 2. Realizar uma pesquisa sobre os Segmentos de Mercado que atuam na RM Vale e Litoral Norte 
 
-
-
-## Sprint 3.  Realizar uma pesquisa sobre os produtos que trafegam na RM Vale e Litoral Norte 
+## Sprint 3.  Trazer os dados de o porque de ser benéfico essas implantações
 
 
       
-## Sprint 4. Realizar uma pesquisa aplicada sobre os produtos que trafegam na RM Vale e Litoral Norte 
+## Sprint 4. 
 
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
