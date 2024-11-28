@@ -95,22 +95,25 @@ Requisitos não funcionais
   
   3 Inclusão de veículos sustentáveis 
 
-  Apresentação das idéias iniciais para EMTU.
+-  Apresentação das idéias iniciais para EMTU.
 
 ## Sprint 2. Realizar uma pesquisa sobre os Segmentos de paineis de energia solar para movimentação do ônibus. Estudar sobre implantação de bicicletas compartilhadas.
-Conceituar a idéia da bicicleta compartilhada e pontos estratégicos para as estações na rota do ônibus 5117.
-Trazer o cálculo dos valores em relação ao ônibus elétrico.
+- Conceituar a idéia da bicicleta compartilhada e pontos estratégicos para as estações na rota do ônibus 5117.
+- Trazer o cálculo dos valores em relação ao ônibus elétrico.
 
 
 ## Sprint 3. Correção do feedback da Sprint 2
-Melhorar visualmente a apresentação; 
-Corrigir erros ortográficos; 
-Reposicionar as estações de Caçapava;
-Fazer relação dos dados no Power Bi
+- Melhorar visualmente a apresentação; 
+
+- Corrigir erros ortográficos; 
+
+- Reposicionar as estações de Caçapava;
+
+- Fazer relação dos dados no Power Bi.
 
       
 ## Feira de soluções 
-Apresentação do produto final do projeto
+- Apresentação do produto final do projeto
 
 
 
