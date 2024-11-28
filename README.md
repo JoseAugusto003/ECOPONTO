@@ -88,6 +88,7 @@ Requisitos não funcionais
 
 -  Fazer um brainstorm;
 -  Dividir o grupo em três para realizar os três tópicos:
+  
   1 Alteração da matriz energética
    
   2 Redução de veículos particulares e expansão de frota
@@ -97,18 +98,20 @@ Requisitos não funcionais
   Apresentação das idéias iniciais para EMTU.
 
 ## Sprint 2. Realizar uma pesquisa sobre os Segmentos de paineis de energia solar para movimentação do ônibus. Estudar sobre implantação de bicicletas compartilhadas.
+Conceituar a idéia da bicicleta compartilhada e pontos estratégicos para as estações na rota do ônibus 5117.
+Trazer o cálculo dos valores em relação ao ônibus elétrico.
 
 
-
-## Sprint 3.  Trazer os dados de o porque de ser benéfico essas implantações
-
+## Sprint 3. Correção do feedback da Sprint 2
+Melhorar visualmente a apresentação; 
+Corrigir erros ortográficos; 
+Reposicionar as estações de Caçapava;
+Fazer relação dos dados no Power Bi
 
       
-## Sprint 4. 
+## Feira de soluções 
+Apresentação do produto final do projeto
 
-
-# Funcionalidades e registros (vídeos e apresentações) das sprints
-Em desenvolvimento 
 
 
 # Competências desenvolvidas
